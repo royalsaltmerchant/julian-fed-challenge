@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/julian-fed-challenge/static/css/main.ea7794b2.chunk.css",
+    "main.js": "/julian-fed-challenge/static/js/main.fe414c98.chunk.js",
+    "main.js.map": "/julian-fed-challenge/static/js/main.fe414c98.chunk.js.map",
+    "runtime-main.js": "/julian-fed-challenge/static/js/runtime-main.d445b51a.js",
+    "runtime-main.js.map": "/julian-fed-challenge/static/js/runtime-main.d445b51a.js.map",
+    "static/js/2.8e2d73b7.chunk.js": "/julian-fed-challenge/static/js/2.8e2d73b7.chunk.js",
+    "static/js/2.8e2d73b7.chunk.js.map": "/julian-fed-challenge/static/js/2.8e2d73b7.chunk.js.map",
+    "index.html": "/julian-fed-challenge/index.html",
+    "precache-manifest.e17b5cf4b4007ff575565a073db4c7f1.js": "/julian-fed-challenge/precache-manifest.e17b5cf4b4007ff575565a073db4c7f1.js",
+    "service-worker.js": "/julian-fed-challenge/service-worker.js",
+    "static/css/main.ea7794b2.chunk.css.map": "/julian-fed-challenge/static/css/main.ea7794b2.chunk.css.map",
+    "static/js/2.8e2d73b7.chunk.js.LICENSE.txt": "/julian-fed-challenge/static/js/2.8e2d73b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d445b51a.js",
+    "static/js/2.8e2d73b7.chunk.js",
+    "static/css/main.ea7794b2.chunk.css",
+    "static/js/main.fe414c98.chunk.js"
+  ]
+}
